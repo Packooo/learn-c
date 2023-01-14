@@ -1,0 +1,2 @@
+// semua file ber ekstensi .exe ora kebaca nang version control
+*.exe
